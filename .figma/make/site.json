@@ -1,0 +1,10 @@
+{
+  "description": "Analyze and visualize multi-modal satellite imagery with AI-powered insights for geospatial professionals to detect changes and extract land features efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
